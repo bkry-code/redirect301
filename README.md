@@ -9,10 +9,6 @@ Redirect internal uris to other internal uris with status 301.
 1. Add `redirect301` folder in `site/plugins/`.
 1. See usage how to add redirects.
 
-## Uri
-
-Here is the difference with url and uri in this case:
-
 ## Usage
 
 It works like key value pairs, from one uri to another uri:
