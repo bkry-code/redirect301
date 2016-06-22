@@ -1,0 +1,8 @@
+{
+  "name": "redirect301",
+  "description": "Redirects for Kirby CMS",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
